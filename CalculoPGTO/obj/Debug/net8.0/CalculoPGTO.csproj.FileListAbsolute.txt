@@ -1,0 +1,4 @@
+C:\Users\ingri\source\repos\CalculoPGTO\CalculoPGTO\obj\Debug\net8.0\CalculoPGTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\source\repos\CalculoPGTO\CalculoPGTO\obj\Debug\net8.0\CalculoPGTO.AssemblyInfoInputs.cache
+C:\Users\ingri\source\repos\CalculoPGTO\CalculoPGTO\obj\Debug\net8.0\CalculoPGTO.AssemblyInfo.cs
+C:\Users\ingri\source\repos\CalculoPGTO\CalculoPGTO\obj\Debug\net8.0\CalculoPGTO.csproj.CoreCompileInputs.cache
